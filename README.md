@@ -2,7 +2,7 @@
 
 I'm passionate about .NET development and a big fan of Star Wars! This is my space on GitHub, where I share projects, code, and some interesting things I'm working on.
 
-![Star Wars](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlwNGV3MWxseG1wdXpzcnJoMzQ4dWUxMWF3dW5xMHB5c3dhN3htYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jd6TVgsph6w7e/giphy.gif) ![Not bug](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVjNmx0c3p6aGJ4NDF1b25samR1N3o2bTRyZXgzYThwZ255bHptayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif)
+![Star Wars](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlwNGV3MWxseG1wdXpzcnJoMzQ4dWUxMWF3dW5xMHB5c3dhN3htYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jd6TVgsph6w7e/giphy.gif)
 
 ## About Me
 
