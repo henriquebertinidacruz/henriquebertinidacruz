@@ -1,6 +1,6 @@
 ## Hello, My name is Henrique Bertini da Cruz👋
 
-I'm passionate about .NET development and a big fan of Star Wars! This is my space on GitHub, where I share projects, code, and some interesting things I'm working on.
+I'm .NET developer and Back-end developer, a big fan of Star Wars! This is my space on GitHub, where I share projects, code, and some interesting things I'm working on.
 
 ![Star Wars](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlwNGV3MWxseG1wdXpzcnJoMzQ4dWUxMWF3dW5xMHB5c3dhN3htYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jd6TVgsph6w7e/giphy.gif)
 
